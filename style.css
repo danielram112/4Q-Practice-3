@@ -1,0 +1,5 @@
+.container{
+    text-align: center;
+    border:solid 10px color(srgb rgb(0, 0, 0) rgb(28, 37, 28) rgb(6, 6, 9));
+    border-radius: 10px;
+}
